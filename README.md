@@ -1,23 +1,24 @@
-# Hi, I'm Fernando 👋
+# Fernando Martinez-Gomez
 
-I build **reproducible scientific software** and computational tools, with emphasis on clear documentation, performance-aware code, and reliable workflows.
+I build **reproducible scientific software** and **computational workflows** for electronic-structure and model-Hamiltonian research (DFT → Wannier90/TB), with emphasis on clarity, reliability, and performance-aware analysis.
 
-**Interests:** scientific computing • data analysis • HPC workflows • modeling & simulation  
-**Tools:** Python • Julia • Git • Linux • Electronic Structure • Condensed Matter
+**Core strengths:** workflow design • numerical modeling • reproducibility • HPC-oriented project structure  
+**Tools:** Python • Julia • Git • Linux • VASP • Quantum ESPRESSO • Wannier90
 
-## Featured work
-- **Codes** — Compilation of various scientific codes in different coding languages.
-- **Electronic Structure** — Examples of VASP and QuantumEspresso input files for material's properties
-- **Tutorials** — A set of quantum electrodynamics and topological matter tutorials made in collaboration with my group
-- **Quantum Dots** - Collaboration with an experimental group to investigate light adsorption shapes on Quantum Dots.
+## Featured projects
+- **Electronic Structure Portfolio (VASP/QE workflows)** — end-to-end inputs organized by stage (relax → SCF/NSCF → bands/DOS → Wannier/TB).  
+  https://github.com/lfmart2/Electronic_Structure
+- **Quantum Dots (Julia)** — electronic wavefunctions + coupling calculations supporting published results.  
+  https://github.com/lfmart2/Quantum_Dots
+- **Codes (multi-language toolbox)** — post-processing utilities and numerical experiments (to be curated into portfolio-ready modules).  
+  https://github.com/lfmart2/Codes
+
+## Selected publications
+- https://doi.org/10.1021/acs.jpclett.5c03500
+- https://doi.org/10.1021/jacs.4c14499
+- https://doi.org/10.1063/5.0276905
+- https://doi.org/10.48550/arXiv.2410.11793
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/luis-martinez-gomez-759888371/
 - Email: fernando.martinez@emory.edu
-
-- 🔭 I’m currently working on Emory University
-- 🌱 I’m currently learning Kernel-Polynomial Methods for big matrix spectrums
-- 👯 I’m looking to collaborate on Condensed Matter and Data Science
-- 💬 Ask me about my Research
-- 📫 How to reach me: by email lfmart2@emory.edu
-- ⚡ Fun fact: 1) I am a big fan about the Dodgers. 2) I do not drink coffee or tea.
