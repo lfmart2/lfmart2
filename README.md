@@ -21,4 +21,4 @@ I build **reproducible scientific software** and **computational workflows** for
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/luis-martinez-gomez-759888371/
-- Email: fernando.martinez@emory.edu
+- Email: lfmartg@outlook.com
