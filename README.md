@@ -8,6 +8,8 @@ PhD computational materials scientist (Emory University, 2026). I model surfaces
 
 **Surfaces and adsorption from DFT.** Slab models in VASP with self-consistent noncollinear spin-orbit coupling, adsorption free energies benchmarked against hydrogen-evolution activity descriptors, and bonding decomposition with pCOHP.
 
+**Machine-learned interatomic potentials.** Zero-shot MACE-MP-0 benchmarking on NbP-H with reference-invariant energy curves, force-resolved validation, calculation provenance, and reproducible CPU inference. The benchmark captures the overall energy trend (Pearson r = 0.9445) while exposing a 0.8057 eV/Å H vertical-force MAE that aggregate force metrics obscure.
+
 **From DFT to a model you can reason about.** Maximally localized Wannier functions with disentanglement, tight-binding Hamiltonians validated back against the DFT bands, surface projected spectral functions, and kernel-polynomial methods.
 
 **Topological matter meeting chemistry.** Weyl semimetals, Fermi arcs, Su-Schrieffer-Heeger chains — and what their surface states do to a chemisorbed molecule.
@@ -18,6 +20,7 @@ PhD computational materials scientist (Emory University, 2026). I model surfaces
 
 | Repository | What it is |
 | --- | --- |
+| [nbp-mace](https://github.com/lfmart2/nbp-mace) | Reproducible zero-shot MACE-MP-0 benchmark for H on NbP: DFT-relative energy curves, H-resolved force errors, provenance, tests and measured CPU timing |
 | [Electronic_Structure](https://github.com/lfmart2/Electronic_Structure) | End-to-end VASP and Quantum ESPRESSO workflows: relaxation, SCF/NSCF, bands and DOS, Wannier90 — across SOC and non-SOC regimes |
 | [Quantum_Dots](https://github.com/lfmart2/Quantum_Dots) | Julia. Electronic wavefunctions and adsorbate-quantum-dot electronic couplings; Fano lineshapes for infrared spectra |
 | [Codes](https://github.com/lfmart2/Codes) | Tight-binding, kernel-polynomial and post-processing utilities in Python, Julia, MATLAB and Mathematica |
